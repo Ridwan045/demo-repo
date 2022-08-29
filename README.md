@@ -8,3 +8,4 @@ Learn terminal
 
 I am learning javascript Basic argorithm and data structure
 Why can i push
+Why add to github
