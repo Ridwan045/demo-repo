@@ -16,3 +16,7 @@ Why add to github
 ## Another subheadder
 
 Titledd
+
+## Local Development
+
+1. Open index.html in your browser.
